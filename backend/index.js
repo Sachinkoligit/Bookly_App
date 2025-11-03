@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "https://fastidious-beijinho-fc2ca1.netlify.app/",
+    origin: "https://fastidious-beijinho-fc2ca1.netlify.app",
     credentials: true,
   })
 );
