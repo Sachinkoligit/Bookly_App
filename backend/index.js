@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "https://sensational-croissant-f48e3e.netlify.app",
+    origin: "https://cosmic-treacle-d97440.netlify.app",
     credentials: true,
   })
 );
