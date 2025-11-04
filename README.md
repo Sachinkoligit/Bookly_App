@@ -19,7 +19,7 @@
 
 | Frontend | Backend | Database | Deployment |
 |----------|---------|----------|------------|
-| React, Vite, Tailwind CSS, Axios | Node.js, Express.js | MongoDB Atlas | Vercel (Frontend), Render (Backend) |
+| React, Vite, Tailwind CSS, Axios | Node.js, Express.js | MongoDB Atlas | Netlify (Frontend), Render (Backend) |
 
 ---
 
